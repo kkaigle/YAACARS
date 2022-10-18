@@ -1,0 +1,19 @@
+====================================================
+== Install.txt for YAACARS for Windows
+======================================
+== 
+== For the autoupdater to work properly, please make
+== sure, you keep the original folder structure:
+== 	\YAACARS\win32\YAACARS.exe 
+== as it is stored in the ZIP File.
+== 
+== For example, that's how it's supposed to be:
+==
+== 	c:\users\me\Desktop\YAACARS\win32\YAACARS.exe
+== or 
+== 	c:\Program Files\YAACARS\win32\YAACARS.exe
+== 
+== If you rename the YAACARS or win32 folder,
+== the autoupdater won't work as expected.
+== 
+====================================================
